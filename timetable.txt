@@ -1,0 +1,77 @@
+TIME TABLE (w.e.f 07/09/2026)
+Academic Year: 2026-27
+Semester: III
+Section: 3ADS01
+Room No: B710
+Class Advisor: Mr. Manjunath M
+Proctor 2: Ms. Kavya R S
+Semester commences: 07-09-2026
+Semester ends: 05-01-2027
+
+PERIOD TIMINGS
+Period 1: 9:00 to 10:00
+Period 2: 10:00 to 11:00
+Short Break: 11:00 to 11:15
+Period 3: 11:15 to 12:15
+Period 4: 12:15 to 1:15
+Lunch Break: 1:15 to 2:15
+Period 6: 2:15 to 3:10
+Period 7: 3:10 to 4:05
+Period 8: 4:05 to 5:00
+
+WEEKLY SCHEDULE
+MONDAY
+- Period 1 (9:00-10:00): PSM
+- Period 2 (10:00-11:00): COA
+- Periods 3-4 (11:15-1:15): LSE
+- Period 6 (2:15-3:10): OOP
+- Period 7 (3:10-4:05): DS
+- Period 8 (4:05-5:00): Free
+
+TUESDAY
+- Period 1 (9:00-10:00): DBMS
+- Period 2 (10:00-11:00): PSM
+- Periods 3-4 (11:15-1:15): DS Lab
+- Period 6 (2:15-3:10): CN
+- Period 7 (3:10-4:05): PAI
+- Period 8 (4:05-5:00): CAM (Class Advisor Meeting)
+
+WEDNESDAY
+- Period 1 (9:00-10:00): PSM
+- Period 2 (10:00-11:00): OOP
+- Period 3 (11:15-12:15): CN
+- Period 4 (12:15-1:15): COA
+- Period 6 (2:15-3:10): DS
+- Period 7 (3:10-4:05): PAI
+- Period 8 (4:05-5:00): ORA
+
+THURSDAY
+- Periods 1-2 (9:00-11:00): OOP Lab
+- Period 3 (11:15-12:15): COA
+- Period 4 (12:15-1:15): DBMS
+- Periods 6-8 (2:15-5:00): Free
+
+FRIDAY
+- Period 1 (9:00-10:00): DS
+- Period 2 (10:00-11:00): CN
+- Period 3 (11:15-12:15): DBMS
+- Period 4 (12:15-1:15): PAI
+- Periods 6-7 (2:15-4:05): DBMS Lab
+- Period 8 (4:05-5:00): Free
+
+SATURDAY, SUNDAY: No classes
+
+COURSES AND FACULTY
+1. 25BEADS301 | PSM | Probability and Statistical Methods | Mrs. Padhama Venkatesh Naik
+2. 25BEADS302 | OOP | Object Oriented Programming | Mr. Manjunath M
+3. 25BEADS303 | DS | Data Structures | Ms. Panchami M C
+4. 25BEADS304 | COA | Computer Organization and Architecture | Mr. Kalaiah J B
+5. 25BEADS305 | DBMS | Data Base Management Systems | Mrs. Shashi Rekha G
+6. 25BEADS306 | CN | Computer Networks | Mrs. S Ramya
+7. 25BEADS307 | PAI | Principles of AI | Ms. Varalakshmi C
+8. 25BELSE308 | LSE | Life Skills for Engineers | HRD
+9. 25BEORA309 | ORA | Outreach Activity-I | Mr. Chandan C
+10. 25BEADS302 | OOPL | Object Oriented Programming Lab | Mr. Manjunath M, Mr. Swamy M S
+11. 25BEADS303 | DSL | Data Structures Lab | Ms. Varalakshmi C, Ms. Vishrutha S N
+12. 25BEADS305 | DBMSL | Data Base Management Systems Lab | Mrs. Shashi Rekha G, Ms. Kavya R S
+13. CAM | Class Advisor Meeting | Mr. Manjunath M

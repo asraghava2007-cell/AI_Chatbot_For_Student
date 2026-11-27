@@ -1,0 +1,16 @@
+# Streamlit secrets (DO NOT COMMIT API KEYS)
+.streamlit/secrets.toml
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+
+# Temporary / testing scratch files
+test_rag.py
